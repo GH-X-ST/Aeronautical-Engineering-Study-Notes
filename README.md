@@ -17,9 +17,9 @@
   * [Vector Calculus](Year%202/AERO50006%20-%20Vector%20Calculus.pdf) - 向量微积分
   * [Partial Differential Equation (PDE)](Year%202/AERO50006%20-%20Partial%20Differential%20Equations.pdf) - 偏微分方程
   * [Probability](Year%202/AERO50006%20-%20Probability.pdf) - 概率学
-  * [Signals and Systems (Part 1)](Year%202/AERO50006%20&AERO50007%20-%20Signals%20and%20Systems%20Part%201.pdf) - 信号与系统 (第一部分)
+  * [Signals and Systems](Year%202/AERO50006%20&AERO50007%20-%20Signals%20and%20Systems.pdf) (Part 1) - 信号与系统 (第一部分)
 * AERO50007 - Mechatronics - 机电一体化
-  * [Signals and Systems (Part 2)](Year%202/AERO50006%20&AERO50007%20-%20Signals%20and%20Systems%20Part%202.pdf) - 信号与系统 (第二部分)
+  * [Signals and Systems](Year%202/AERO50006%20&AERO50007%20-%20Signals%20and%20Systems.pdf) (Part 2) - 信号与系统 (第二部分)
   * [Circuit](Year%202/AERO50007%20-%20Circuit.pdf) - 电路
 * [AERO50008 - Structures 2](Year%202/AERO50008%20-%20Structures%202.pdf) - 结构学 2 <br>
 * [AERO50009 - Propulsion and Turbomachinery](Year%202/AERO50009%20-%20Propulsion%20and%20Turbomachinery.pdf) - 推进系统与涡轮机 <br>
