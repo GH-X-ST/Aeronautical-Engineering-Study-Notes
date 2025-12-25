@@ -3,14 +3,14 @@
 *Imperial College London **Aeronautical Engineering (MEng 4YFT)*** **Study Notes** in English <br> 
 *帝国理工 **航空工程 (本硕连读)*** 英文**学习笔记** <br>
 
-### [Year 1 - 大一](docs/Year%201/) (2022-2023)
-* <ins>AERO40001</ins> - [Aerodyanmics 1](Year%201/AERO40001%20-%20Aerodynamics%201.pdf) - 空气动力学 1 <br>  
-* <ins>AERO40006</ins> - [Mathematics 1](Year%201/AERO40006%20-%20Mathematics%201.pdf) - 数学 1 <br>
-* <ins>AERO40008</ins> - [Structures 1](Year%201/AERO40008%20-%20Structures%201.pdf) - 结构学 1 <br> 
-* <ins>AERO40009</ins> - [Thermodynamics and Heat Transfer](Year%201/AERO40009%20-%20Thermodynamics%20and%20Heat%20Transfer.pdf) - 热力学与热传导 <br> 
+### [Year 1 - 大一](Year%201/) (2022-2023)
+* [AERO40001 - Aerodynamics 1](Year%201/AERO40001%20-%20Aerodynamics%201.pdf) - 空气动力学 1 <br>  
+* [AERO40006 - Mathematics 1](Year%201/AERO40006%20-%20Mathematics%201.pdf) - 数学 1 <br>
+* [AERO40008 - Structures 1](Year%201/AERO40008%20-%20Structures%201.pdf) - 结构学 1 <br> 
+* [AERO40009 - Thermodynamics and Heat Transfer](Year%201/AERO40009%20-%20Thermodynamics%20and%20Heat%20Transfer.pdf) - 热力学与热传导 <br> 
 
 ### Year 2 - 大二 (2023-2024)  
-* <ins>AERO50001</ins> - Aerodyanmics 2 - 空气动力学 2 <br>  
+* <ins>AERO50001</ins> - Aerodynamics 2 - 空气动力学 2 <br>  
 * <ins>AERO50002</ins> - Flight Dynamics and Control - 飞行动力学与控制原理 <br>
 * <ins>AERO50005</ins> - Materials 2 - 材料学 2 <br> 
 * <ins>AERO50006</ins> - Mathematics 2 - 数学 2
@@ -25,7 +25,7 @@
 * <ins>AERO50009</ins> - Propulsion and Turbomachinery - 推进系统与涡轮机 <br>
 
 ### Year 3 - 大三 (2024-2025)  
-* <ins>AERO60001</ins> - Aerodyanmics 3 - 空气动力学 3 <br>
+* <ins>AERO60001</ins> - Aerodynamics 3 - 空气动力学 3 <br>
 * <ins>AERO60007</ins> - Control Systems - 控制系统 <br>
 * <ins>AERO60008</ins> - Structures 3 - 结构学 3 <br>
 * <ins>AERO70015</ins> - Mathematics 3 (elective) - 数学 3 (选修) <br>
@@ -33,4 +33,4 @@
 
 ### Year 4 - 研一 (2025-2026)  
 will update before August 2026 <br> 
-将在2026年8月前更新
+将于2026年8月前更新
