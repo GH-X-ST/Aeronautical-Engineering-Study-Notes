@@ -37,7 +37,7 @@ will update before August 2026 <br>
 &nbsp;
 
 ## Modules Covered by External References - 由外部参考资料覆盖的课程
-### [Year 1 - 大一](Year%201/)
+### Year 1 - 大一
 * **AERO40001 - Introduction to Aerospace - 航空航天概论** <br>
   Suggested reading awesome [Intro to Aerospace study notes](https://www.aerostudents.com/) compiled by students from Delft University of Technology <br>
   推荐阅读由代尔夫特理工大学毕业生们整理的[航空航天概论学习笔记](https://www.aerostudents.com/)，非常之牛逼
@@ -53,14 +53,14 @@ will update before August 2026 <br>
 * **AERO40007 - Mechanics 1 - 力学 1** <br>
   Just practise more problems, attend tutorials, and go through past papers <br>
   多刷题就好啦
-### [Year 2 - 大二](Year%202/)
+### Year 2 - 大二
 * **AERO50003 - Computing and Numerical Methods 2 - 计算机与数值方法 2** <br>
   [W3Schools](https://www.w3schools.com/) provides a detailed and systematic C++ tutorial <br>
   [菜鸟教程](https://www.runoob.com/) 给出了系统且免费的C++教程
 * **AERO50010 - Engineering Practice 2 - 工程实践 2** <br>
   Once again, any Large Language Model would be much more helpful than my notes or previously written code <br>
   说真的，任何大语言模型都比我的笔记或屎山代码好使多了
-### [Year 3 - 大三](Year%203/)
+### Year 3 - 大三
 * **AERO60002 - Aerospace Vehicle Design - 飞行器设计** <br>
   If you really need it, I can make the repositories public, but if you dare to simply copy and paste my code instead of learning the methodology behind it, I will find you and fold you like a lawn chair <br>
   如果你真的需要，我可以公开自己的仓库，但如果你敢直接照抄，无论你在地球的哪个角落，我都会找到你，然后抡起铜头皮带把你抽得如陀螺般旋转
@@ -92,7 +92,7 @@ If you are unsure, feel free to open an issue first <br>
 * 补充当前缺失课程的学习笔记或总结 <br>
 * 改进已有笔记的思路，结构或严谨性 <br>
 * 修正拼写错误或排版问题 <br>
-* 分享有价值的参考文献、教材或外部学习资源 <br>
+* 分享有价值的参考文献，教材或外部学习资源 <br>
 
 请确保任何贡献内容：<br>
 * 为你**本人原创**，或已明确标注引用来源 <br>
