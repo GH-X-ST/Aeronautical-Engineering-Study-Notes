@@ -35,7 +35,7 @@
 will update before August 2026 <br> 
 将于2026年8月前更新
 
-## Missing Parts - 缺失部分
+## Missing Parts - 缺失的内容
 ### [Year 1 - 大一](Year%201/) (2022-2023)
 * <ins>*AERO40001 - Introduction to Aerospace - 航空航天概论*</ins> <br>
   Suggested reading awesome [Intro to Aerospace study notes](https://www.aerostudents.com/) compiled by students from Delft University of Technology <br>
