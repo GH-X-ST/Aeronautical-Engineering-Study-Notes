@@ -63,7 +63,7 @@ If you are unsure, feel free to open an issue first <br>
 * **BUSI60041 - Entrepreneurship (M/B) *(elective)*** <br>
 * **BUSI60042 - Entrepreneurship Online (M/B) *(elective)*** <br>
 * **BUSI60043 - Finance & Financial Manage. (M/B) *(elective)*** <br>
-* **DESE60008 - Design for Add. Manufacturing (IDX) *(elective)*** <br>
+* **DESE60008 - Design for Additive Manufacturing (IDX) *(elective)*** <br>
 &nbsp;
 
 ## Acknowledgements - 致谢
