@@ -5,9 +5,9 @@
 ## [Year 1 - 大一](Year%201/) (2022-2023)
 * **AERO40001 - Aerodynamics 1 - 空气动力学 1** <br>
   * [Study Notes](Year%201/AERO40001%20-%20Aerodynamics%201/Aerodynamics%201.pdf) - 学习笔记
-  * [Tutoiral](Year%201/AERO40001%20-%20Aerodynamics%201/Tutoiral) - 习题
+  * [Tutorial](Year%201/AERO40001%20-%20Aerodynamics%201/Tutorial) - 习题
 * **AERO40002 - Introduction to Aerospace - 航空航天概论** <br>
-  * [Tutoiral](Year%201/AERO40002%20-%20Introduction%20to%20Aerospace/Tutoiral) - 习题
+  * [Tutorial](Year%201/AERO40002%20-%20Introduction%20to%20Aerospace/Tutorial) - 习题
 * **AERO40003 - Computing and Numerical Methods 1 - 计算机与数值方法 1** <br>
   * Study Notes
     * [MATLAB](Year%201/AERO40003%20-%20Computing3%20and3%20Numerical3%20Methods%201/Study%20Notes/MATLAB)
@@ -39,7 +39,7 @@
     * [Part 2](Year%201/AERO40008%20-%20Structures%201/Tutorial/Part%202) - 第二部分
 * **AERO40009 - Thermodynamics and Heat Transfer - 热力学与热传导** <br>
   * [Study Notes](Year%201/AERO40009%20-%20Thermodynamics%20and%20Heat%20Transfer/Thermodynamics%20and%20Heat%20Transfer.pdf) - 学习笔记
-  * [Tutoiral](Year%201/AERO40009%20-%20Thermodynamics%20and%20Heat%20Transfer/Tutoiral) - 习题
+  * [Tutorial](Year%201/AERO40009%20-%20Thermodynamics%20and%20Heat%20Transfer/Tutorial) - 习题
 
 ## [Year 2 - 大二](Year%202/) (2023-2024)  
 * **[AERO50001 - Aerodynamics 2](Year%202/AERO50001%20-%20Aerodynamics%202.pdf) - 空气动力学 2** <br>  
