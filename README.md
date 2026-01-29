@@ -1,10 +1,8 @@
-![Cover](Cover.jpg)
-
 *All notes and tutorial solutions are my own work and are shared for learning purposes only* <br>
 *No assessed or examination materials are included in this repository* <br>
 *所有笔记与习题解答均由本人独立完成，仅用于学习与交流目的* <br>
 *本仓库中不包含任何与评分作业或考试有关的材料* <br>
-
+![Cover](Cover.jpg)
 The quality of my Year 1 materials is a bit meh...I was still figuring things out and never got around to polishing it <br>
 Trust me, things take a major step up from Year 2 onwards <br>
 整理时发现自己大一笔记和习题的质量有些一言难尽...但我实在抽不出时间重写一遍了 <br>
