@@ -22,12 +22,12 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
   * [Tutorial](Year%201/AERO40002%20-%20Introduction%20to%20Aerospace/Tutorial) - 习题
 * **AERO40003 - Computing and Numerical Methods 1 - 计算机与数值方法 1** <br>
   * Study Notes
-    * [MATLAB](Year%201/AERO40003%20-%20Computing3%20and3%20Numerical3%20Methods%201/Study%20Notes/MATLAB)
-    * [Python](Year%201/AERO40003%20-%20Computing3%20and3%20Numerical3%20Methods%201/Study%20Notes/Python)
-  * Tutorial - 习题
-    * [MATLAB](Year%201/AERO40003%20-%20Computing3%20and3%20Numerical3%20Methods%201/Tutorial/MATLAB)
-    * [Numerical Methods](Year%201/AERO40003%20-%20Computing3%20and3%20Numerical3%20Methods%201/Tutorial/Numerical3%20Methods) - 数值方法
-    * [Python](Year%201/AERO40003%20-%20Computing3%20and3%20Numerical3%20Methods%201/Tutorial/Python)
+    * [MATLAB](Year%201/AERO40003%20-%20Computing%20and%20Numerical%20Methods%201/Study%20Notes/MATLAB)
+    * [Python](Year%201/AERO40003%20-%20Computing%20and%20Numerical%20Methods%201/Study%20Notes/Python)
+  * Tutorial - 习S
+    * [MATLAB](Year%201/AERO40003%20-%20Computing%20and%20Numerical%20Methods%201/Tutorial/MATLAB)
+    * [Numerical Methods](Year%201/AERO40003%20-%20Computing%20and%20Numerical%20Methods%201/Tutorial/Numerical3%20Methods) - 数值方法
+    * [Python](Year%201/AERO40003%20-%20Computing%20and%20Numerical%20Methods%201/Tutorial/Python)
 * **AERO40004 - Engineering Practice 1 - 工程实践 1** <br>
   * [Logbook](Year%201/AERO40004%20-%20Engineering%20Practice%201/Logbook) - 实验日志
 * **AERO40005 - Materials 1 - 材料学 1** <br>
