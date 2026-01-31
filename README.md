@@ -33,8 +33,8 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
 * **AERO40005 - Materials 1 - 材料学 1** <br>
   * *[Study Notes](Contributing.md#haozeeeeeeeee) - 学习笔记*
   * Tutorial - 习题
-    * [Part 1](Year%201/AERO40005%20-%20Materials%201/Tutorial/Part%201) - 第一部分
-    * [Part 2](Year%201/AERO40005%20-%20Materials%201/Tutorial/Part%202) - 第二部分
+    * [Introduction](Year%201/AERO40005%20-%20Materials%201/Tutorial/Introduction) - 概论
+    * [Elasticity and Plasticity](Year%201/AERO40005%20-%20Materials%201/Tutorial/Elasticity%20and%20Plasticity) - 弹性与塑性
 * **AERO40006 - Mathematics 1 - 数学 1** <br>
   * [Study Notes](Year%201/AERO40006%20-%20Mathematics%201/Mathematics%201.pdf) - 学习笔记
   * Tutorial - 习题
