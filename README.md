@@ -2,6 +2,9 @@
 *No assessed or examination materials are included in this repository* <br>
 *所有笔记与习题解答均由本人独立完成，仅用于学习与交流目的* <br>
 *本仓库中不包含任何与评分作业或考试有关的材料* <br>
+
+*Contributions from others will be [credited](Contributing.md#acknowledgements---致谢) in italics in this README* <br>
+*来自其他贡献者的内容将在本README中以斜体形式标注并[致谢](Contributing.md#acknowledgements---致谢)* <br>
 ![Cover](Cover.jpg)
 The quality of my Year 1 materials is a bit meh...I was still figuring things out and never got around to polishing it <br>
 Trust me, things take a major step up from Year 2 onwards <br>
@@ -28,7 +31,7 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
 * **AERO40004 - Engineering Practice 1 - 工程实践 1** <br>
   * [Logbook](Year%201/AERO40004%20-%20Engineering%20Practice%201/Logbook) - 实验日志
 * **AERO40005 - Materials 1 - 材料学 1** <br>
-  * [Study Notes](Year%201/AERO40006%20-%20Materials%201/Materials%201.pdf) - 学习笔记
+  * *[Study Notes](Contributing.md#haozeeeeeeeee) - 学习笔记*
   * Tutorial - 习题
     * [Part 1](Year%201/AERO40005%20-%20Materials%201/Tutorial/Part%201) - 第一部分
     * [Part 2](Year%201/AERO40005%20-%20Materials%201/Tutorial/Part%202) - 第二部分
@@ -39,7 +42,7 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
     * [Ordinary Differential Equations](Year%201/AERO40006%20-%20Mathematics%201/Tutorial/Ordinary%20Differential%20Equations) - 常微分方程
     * [Linear Algebra](Year%201/AERO40006%20-%20Mathematics%201/Tutorial/Linear%20Algebra) - 线性代数
 * **AERO40007 - Mechanics 1 - 力学 1** <br>
-  * [Study Notes](Year%201/AERO40006%20-%20Mechanics%201/Mechanics%201.pdf) - 学习笔记
+  * *[Study Notes](Contributing.md#haozeeeeeeeee) - 学习笔记*
   * Tutorial - 习题
     * [Part 1](Year%201/AERO40007%20-%20Mechanics%201/Tutorial/Part%201) - 第一部分
     * [Part 2](Year%201/AERO40007%20-%20Mechanics%201/Tutorial/Part%202) - 第二部分
